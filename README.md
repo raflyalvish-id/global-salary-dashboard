@@ -18,8 +18,8 @@ This project analyzes global salary data for data-related roles across different
 - Salary trends show growth followed by market adjustment
 
 ## 📂 Files
-- `global-salary-dashboard.xlsx` → Main dashboard
-- `dashboard-preview.png` → Dashboard preview
+- [global-salary-dashboard.xlsx](./global-salary-dashboard.xlsx) → Main dashboard  
+- [dashboard-preview.png](./dashboard-preview.png) → Dashboard preview  
 
 ## 🖼 Dashboard Preview
 ![Dashboard Preview](dashboard-preview.png)
